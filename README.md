@@ -3,11 +3,11 @@
 A flexible FTP file downloader made in PHP.
 
 
-##Install
+## Install
 
-	* Open config.php and insert your own data
+	*Open config.php and insert your own data
 	
-	* Open get.php and modify the function is_dem according to your necessity or delete it if you don't want control over extensions
+	*Open get.php and modify the function is_dem according to your necessity or delete it if you don't want control over extensions
 	
 	
 ## License
@@ -17,4 +17,4 @@ A flexible FTP file downloader made in PHP.
 
 ## Author
 
-| [Mattia Limone] |
+Mattia Limone
